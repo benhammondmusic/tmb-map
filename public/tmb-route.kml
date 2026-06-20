@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>Tour du Mont Blanc</name>
+<Placemark><name>TMB Route</name>
+<Style><LineStyle><color>ccff4500</color><width>4</width></LineStyle></Style>
+<LineString><tessellate>1</tessellate><coordinates>6.8694,45.9237,0 6.7981,45.8903,0 6.7714,45.8797,0 6.7539,45.8506,0 6.76,45.8391,0 6.7278,45.8214,0 6.7114,45.7961,0 6.711,45.7573,0 6.7397,45.7214,0 6.7503,45.7147,0 6.7556,45.7111,0 6.7819,45.7206,0 6.7792,45.737,0 6.8489,45.7167,0 6.9709,45.7908,0 7.0328,45.8203,0 7.0683,45.8983,0 7.1333,45.95,0 7.1006,45.9272,0 7.1173,46.0297,0 7.0508,46.0611,0 6.996,46.0556,0 6.9286,46.0194,0 6.9278,45.9986,0 6.9175,45.9814,0 6.8694,45.9237,0</coordinates></LineString>
+</Placemark>
+<Placemark><name>Fenetre d Arpette day hike</name>
+<Style><LineStyle><color>66ff4500</color><width>2</width></LineStyle></Style>
+<LineString><tessellate>1</tessellate><coordinates>7.1173,46.0297,0 7.0681,45.9989,0 7.1173,46.0297,0</coordinates></LineString>
+</Placemark>
+<Placemark>
+<name>Chamonix</name>
+<description>Night 1 - Hotel - Welcome dinner</description>
+<Point><coordinates>6.8694,45.9237,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Les Houches</name>
+<description>Day 2 trailhead - cable car to Bellevue</description>
+<Point><coordinates>6.7981,45.8903,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Bellevue</name>
+<description>Cable car top - start of hiking Day 2</description>
+<Point><coordinates>6.7714,45.8797,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Col du Tricot</name>
+<description>6995ft - Day 2 pass</description>
+<Point><coordinates>6.7539,45.8506,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Refuge de Miage</name>
+<description>Night 2 - Bunkroom - dinner and breakfast included</description>
+<Point><coordinates>6.76,45.8391,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Les Contamines</name>
+<description>Day 3 - stop for lunch supplies</description>
+<Point><coordinates>6.7278,45.8214,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Notre Dame de la Gorge</name>
+<description>Day 3 - 15th-century mountain church</description>
+<Point><coordinates>6.7114,45.7961,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Refuge de la Balme</name>
+<description>Night 3 - Bunkroom - dinner and breakfast included</description>
+<Point><coordinates>6.711,45.7573,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Croix de Bonhomme</name>
+<description>Day 4 - steady climb</description>
+<Point><coordinates>6.7397,45.7214,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Col des Fours</name>
+<description>Day 4 - 8960ft</description>
+<Point><coordinates>6.7503,45.7147,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Tete des Nord Fours</name>
+<description>Day 4 - 9045ft - optional detour - highest point on tour</description>
+<Point><coordinates>6.7556,45.7111,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Ville des Glaciers</name>
+<description>Day 4 - Beaufort cheese farm stop</description>
+<Point><coordinates>6.7819,45.7206,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Refuge des Mottets</name>
+<description>Night 4 - Rustic bunkroom - dinner and breakfast included</description>
+<Point><coordinates>6.7792,45.737,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Col de la Seigne</name>
+<description>Day 5 - 8300ft - France/Italy border</description>
+<Point><coordinates>6.8489,45.7167,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Courmayeur</name>
+<description>Nights 5 and 6 - Hotel - 2 nights - dinners on own</description>
+<Point><coordinates>6.9709,45.7908,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Italian Val Ferret</name>
+<description>Day 7 - transfer drop-off point</description>
+<Point><coordinates>7.0328,45.8203,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Col Grand Ferret</name>
+<description>Day 7 - Italy/Switzerland border crossing</description>
+<Point><coordinates>7.0683,45.8983,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Ferret Switzerland</name>
+<description>Night 7 - Hikers inn - bunkroom - dinner and breakfast included</description>
+<Point><coordinates>7.1333,45.95,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>La Fouly</name>
+<description>Day 8 - Swiss Val Ferret hamlet</description>
+<Point><coordinates>7.1006,45.9272,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Champex-Lac</name>
+<description>Nights 8 and 9 - Hotel - 2 nights - day hike to Fenetre d Arpette on Day 9</description>
+<Point><coordinates>7.1173,46.0297,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Fenetre d Arpette</name>
+<description>Day 9 - out-and-back day hike from Champex</description>
+<Point><coordinates>7.0681,45.9989,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Bovine</name>
+<description>Day 10 - high alpine pastures</description>
+<Point><coordinates>7.0508,46.0611,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Trient</name>
+<description>Night 10 - Hostel bunkroom - dinner and breakfast included</description>
+<Point><coordinates>6.996,46.0556,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Col de Balme</name>
+<description>Day 11 - 7230ft - Switzerland/France border</description>
+<Point><coordinates>6.9286,46.0194,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Col des Posettes</name>
+<description>Day 11</description>
+<Point><coordinates>6.9278,45.9986,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Montroc</name>
+<description>Day 11 - valley transfer point to Chamonix bus</description>
+<Point><coordinates>6.9175,45.9814,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Chamonix Return</name>
+<description>Night 11 - Hotel - Farewell dinner</description>
+<Point><coordinates>6.8694,45.9237,0</coordinates></Point>
+</Placemark>
+</Document></kml>
